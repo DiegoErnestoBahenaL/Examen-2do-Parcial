@@ -1,0 +1,4 @@
+Buen día prof, escogí el tipo de examen A.
+Pido una disculpa de antemano si el código se ve muy miserable; tuve varias ideas para resolver el examen sin embargo no supe como implementarlas.
+Gracias por darnos la oportunidad de entregarle el código hasta hoy a las 12:00 y lamento no haber podido resolverlo.
+Qué pase un buen fin de semana.
